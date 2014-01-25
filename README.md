@@ -52,6 +52,8 @@ it simply add the following line to your Podfile:
 
 David Harver Pollak, bebus77@gmail.com
 
+[@bebus77](https://twitter.com/bebus77)
+
 ## License
 
 DPFlickView is available under the MIT license. See the LICENSE file for more info.
