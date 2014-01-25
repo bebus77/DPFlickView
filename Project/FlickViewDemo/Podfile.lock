@@ -1,0 +1,14 @@
+PODS:
+  - DPFlickView (0.1)
+
+DEPENDENCIES:
+  - DPFlickView (from `../../DPFlickView.podspec`)
+
+EXTERNAL SOURCES:
+  DPFlickView:
+    :path: ../../DPFlickView.podspec
+
+SPEC CHECKSUMS:
+  DPFlickView: f7120033ecfb5cb66fdb0ea52c41aa04457fdbc3
+
+COCOAPODS: 0.28.0

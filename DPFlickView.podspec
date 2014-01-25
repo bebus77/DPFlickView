@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "DPFlickView"
   s.version      = "0.1"
+  s.summary      = "Tinder.app style flick view implementation."
   s.homepage     = "https://github.com/bebus77/DPFlickView"
   s.license      = 'MIT'
   s.author       = { "David Harver Pollak" => "bebus77@gmail.com" }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E6DA2D4B-B6A6-4A06-98C8-158DBE24735F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlickViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>471FADF8-633E-46E7-8E43-2215EE31393B</key>
+		<string>https://github.com/bebus77/DPFlickView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Project/FlickViewDemo/FlickViewDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>471FADF8-633E-46E7-8E43-2215EE31393B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bebus77/DPFlickView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>471FADF8-633E-46E7-8E43-2215EE31393B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>471FADF8-633E-46E7-8E43-2215EE31393B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DPFlickView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
